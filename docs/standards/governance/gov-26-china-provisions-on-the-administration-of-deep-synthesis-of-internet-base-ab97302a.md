@@ -8,7 +8,7 @@
 - **Type:** Regulation / measures
 
 ## Official Standard Link
-- [China — Provisions on the Administration of Deep Synthesis of Internet-based Information Services](http://www.cac.gov.cn/2022-11/25/c_1672229682388227.htm)
+- [China — Provisions on the Administration of Deep Synthesis of Internet-based Information Services](https://www.chinalawtranslate.com/en/deep-synthesis/)
 
 ## Website Screenshot
 ![China Law Translate official website screenshot](./images/gov-26-china-provisions-on-the-administration-of-deep-synthesis-of-internet-base-ab97302a.png)
