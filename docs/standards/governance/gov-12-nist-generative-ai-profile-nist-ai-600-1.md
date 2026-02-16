@@ -9,7 +9,7 @@
 
 ## Screenshot 
 
-![Screenshot](docs/standards/governance/images/ss.jpeg)
+![Alt text]]docs/standards/governance/images/ss.jpeg
 
 ## Brief Info
 Reference checklist pack for NIST — Generative AI Profile (NIST.AI.600-1). Jurisdiction: US (global use). Type: Profile / guidance.
