@@ -1,0 +1,78 @@
+project_id: fraud-detection-for-meezan-bank-20260216-121209
+generated_at: '2026-02-16T12:12:09.553061+00:00'
+items:
+- item_id: 6c30a81c237f0f3f
+  merge_key: safety/saf-02-iso-iec-5338-2023-ai-system-life-cycle-processes/STD01
+  canonical_id: null
+  title: Align with ISO/IEC 5338:2023 — AI system life cycle processes
+  objective: Document and implement controls aligned with ISO/IEC 5338:2023 — AI system
+    life cycle processes for this AI system.
+  severity: medium
+  category: Standard alignment
+  domain: safety
+  pack_refs:
+  - domain: safety
+    pack_id: saf-02-iso-iec-5338-2023-ai-system-life-cycle-processes
+    version: '1.0'
+    control_id: STD01
+    source:
+      name: ISO/IEC 5338:2023
+      reference: ISO/IEC 5338:2023 — AI system life cycle processes
+      url: https://www.iso.org/standard/81118.html
+    pack_hash: eed606d16e82e5fe51de339329d9543611b324876783914718d46161986ca2d1
+  why_applies: 'Selected standard: ISO/IEC 5338:2023 — AI system life cycle processes
+
+    Triggered by: exists(system.name)'
+  evidence_required:
+  - type: mapping
+    name: Requirement-to-control mapping
+  - type: assessment
+    name: Conformance assessment record
+  test_procedures:
+  - Review mapped requirements and confirm implementation evidence exists.
+  - Validate control ownership and review cadence for the selected standard.
+  status: not_started
+  owner: null
+  notes: null
+  evidence: []
+- item_id: 81dd69bbc6d965c8
+  merge_key: security/sec-01-nist-cybersecurity-framework-csf-2-0/STD01
+  canonical_id: null
+  title: Align with NIST — Cybersecurity Framework (CSF) 2.0
+  objective: Document and implement controls aligned with NIST — Cybersecurity Framework
+    (CSF) 2.0 for this AI system.
+  severity: high
+  category: Standard alignment
+  domain: security
+  pack_refs:
+  - domain: security
+    pack_id: sec-01-nist-cybersecurity-framework-csf-2-0
+    version: '1.0'
+    control_id: STD01
+    source:
+      name: NIST
+      reference: NIST — Cybersecurity Framework (CSF) 2.0
+      url: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf
+    pack_hash: 41f894e70eed1a408c3addf1b9f23edca6147b8903fb7306ef4b4ee322724c80
+  why_applies: 'Selected standard: NIST — Cybersecurity Framework (CSF) 2.0
+
+    Triggered by: exists(system.name)'
+  evidence_required:
+  - type: mapping
+    name: Requirement-to-control mapping
+  - type: assessment
+    name: Conformance assessment record
+  test_procedures:
+  - Review mapped requirements and confirm implementation evidence exists.
+  - Validate control ownership and review cadence for the selected standard.
+  status: not_started
+  owner: null
+  notes: null
+  evidence: []
+counts:
+  total: 2
+  by_domain:
+    safety: 1
+    security: 1
+  by_status:
+    not_started: 2
