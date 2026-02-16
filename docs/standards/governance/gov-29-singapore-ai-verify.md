@@ -11,7 +11,7 @@
 - [Singapore — AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/)
 
 ## Website Screenshot
-![singapore AI verify](../../images/singapore Ai verify.png)
+![singapore AI verify](../../images/singapore_Ai_ verify.png)
 
 ## Brief Info
 Reference checklist pack for Singapore — AI Verify. Jurisdiction: Singapore. Type: Testing / governance framework.
