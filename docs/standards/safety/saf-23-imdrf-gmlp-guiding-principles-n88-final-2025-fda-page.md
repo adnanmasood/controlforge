@@ -10,6 +10,8 @@
 ## Official Standard Link
 - [IMDRF GMLP Guiding Principles (N88 FINAL:2025) — FDA page](https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles)
 
+![Saf 23](images/saf-23.png)
+
 ## Brief Info
 Reference checklist pack for IMDRF GMLP Guiding Principles (N88 FINAL:2025) — FDA page. Jurisdiction: International. Type: Guidance.
 
