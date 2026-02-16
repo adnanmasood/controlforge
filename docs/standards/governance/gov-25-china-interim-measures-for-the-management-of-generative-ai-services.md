@@ -11,7 +11,7 @@
 - [China — Interim Measures for the Management of Generative AI Services](http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm)
 
 ## Website Screenshot
-![China — Interim Measures official website screenshot](docs/images/China — Interim Measures for the Management of Generative AI Services.png)
+![China Interim Measures official website screenshot](./images/china-interim-measures.png)
 
 
 ## Brief Info
