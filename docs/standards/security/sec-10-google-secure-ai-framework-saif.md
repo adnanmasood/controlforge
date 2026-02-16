@@ -10,6 +10,10 @@
 ## Official Standard Link
 - [Google Secure AI Framework (SAIF)](https://research.google/resources/secure-ai-framework/)
 
+## Website
+![Image](../../images/google_secure_Ai_framework_saif.png)
+
+
 ## Brief Info
 Reference checklist pack for Google Secure AI Framework (SAIF). Jurisdiction: Global. Type: Industry framework.
 
