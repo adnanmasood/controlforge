@@ -3,12 +3,12 @@
 
 **Tagline:** Config-driven packs → controls → evidence → audit-ready.  
 **Control panel:** TrustStack AI Assurance Hub  
-**Repo:** `controlforge-ai-grc`
+**Repo:** `controlforge`
 
 TrustStack AI GRC turns AI regulations and security frameworks into a **practical, trackable checklist** for a specific AI use case — and helps you **store evidence** and produce an **audit-ready report**.
 
 ## Application Screenshot
-![TrustStack AI Assurance Hub screenshot](docs/images/application-screenshot.svg)
+![TrustStack AI Assurance Hub homepage screenshot](docs/images/application-homepage-screenshot.png)
 
 ## What you tell it
 - Industry + segment + use case (config-driven taxonomy)

@@ -1,0 +1,71 @@
+project:
+  id: fraud-detection-for-meezan-bank-20260216-121209
+  name: Fraud Detection for Meezan Bank
+  description: null
+  created_at: '2026-02-16T12:12:09.553034+00:00'
+  updated_at: '2026-02-16T12:12:09.553049+00:00'
+inputs:
+  industry_id: finance
+  segment_id: banking
+  use_case_id: fraud-detection
+  deployment_environment: AWS Native
+  selected_llms:
+  - GPT 5.2
+  selected_packs:
+  - domain: governance
+    pack_id: eu-ai-act
+    version: 2024-1689
+  - domain: safety
+    pack_id: saf-02-iso-iec-5338-2023-ai-system-life-cycle-processes
+    version: '1.0'
+  - domain: security
+    pack_id: sec-01-nist-cybersecurity-framework-csf-2-0
+    version: '1.0'
+  scope_answers: &id002
+    materially_influences_decisions: true
+    processes_pci: true
+    customer_facing: false
+    jurisdictions: &id001
+    - US
+context:
+  system:
+    name: Fraud Detection for Meezan Bank
+  industry:
+    id: finance
+  segment:
+    id: banking
+  use_case:
+    id: fraud-detection
+  tags:
+  - ml
+  - classifier
+  - decision_support
+  - finance
+  - pii
+  pattern:
+    rag: false
+    agentic: false
+    chatbot: false
+    classifier: true
+    decision_support: true
+  data:
+    phi: false
+    pii: true
+    pci: true
+  deployment:
+    internet_exposed: false
+    customer_facing: false
+  jurisdiction:
+    list: *id001
+    eu: false
+    us: true
+    uk: false
+  model:
+    sourcing: unknown
+    fine_tuned: false
+  scope: *id002
+generated:
+  generator_version: 0.1.0
+  taxonomy_hash: 9538004338626b800551ab7d87dee4a65d0171737e477a58de90d405cb2dedef
+  packs_hash: e83f3d7c4d9b9952f760f5d58a9448735d6a547d9371856675f2039cd7aeb77d
+  checklist_hash: 9da8d4d4a03dd8864fb98e5dbe07769cfb5cd8b8f4576ab8ff17c322e00884d5
