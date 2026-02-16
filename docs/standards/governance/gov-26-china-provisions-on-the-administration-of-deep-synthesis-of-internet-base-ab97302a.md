@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [China — Provisions on the Administration of Deep Synthesis of Internet-based Information Services](http://www.cac.gov.cn/2022-11/25/c_1672229682388227.htm)
 
+## Website Screenshot
+![China Law Translate official website screenshot](./images/gov-26-china-provisions-on-the-administration-of-deep-synthesis-of-internet-base-ab97302a.png)
+
 ## Brief Info
 Reference checklist pack for China — Provisions on the Administration of Deep Synthesis of Internet-based Information Services. Jurisdiction: China. Type: Regulation / measures.
 
