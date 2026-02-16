@@ -9,8 +9,8 @@
 
 ## Official Standard Link
 - [ISO/IEC 5338:2023 — AI system life cycle processes](https://www.iso.org/standard/81118.html)
-## Website Link
-![ISO/IEC 5338:2023 — AI system life cycle processes](/docs/images/saf-02-iso-iec-5338-2023-ai-system-life-cycle-processes.png)
+## Website Image
+![ISO/IEC 5338:2023 — AI system life cycle processes](/docs/standards/safety/saf-02-iso-iec-5338-2023-ai-system-life-cycle-processes.png)
 ## Brief Info
 Reference checklist pack for ISO/IEC 5338:2023 — AI system life cycle processes. Jurisdiction: International. Type: ISO/IEC standard.
 
