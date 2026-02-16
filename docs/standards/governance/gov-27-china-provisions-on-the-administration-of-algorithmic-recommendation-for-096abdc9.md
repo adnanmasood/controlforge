@@ -15,3 +15,7 @@ Reference checklist pack for China — Provisions on the Administration of Algor
 
 ## How This Is Used In TrustStack
 This standard is represented as a versioned pack and contributes checklist controls, expected evidence, and audit-ready mapping context.
+
+## Regulation Snapshot
+![Regulation Website Screenshot](images/gov-27-china-provisions-on-the-administration-of-algorithmic-recommendation-for-096abdc9-website.png)
+
