@@ -11,7 +11,7 @@
 - [G7 — Hiroshima Process International Code of Conduct for Advanced AI](https://www.mofa.go.jp/files/100573473.pdf)
 
 ## Website Screenshot
-![ Hiroshima Process International Code of Conduct for Advanced AI](docs/images/gov-03-iso-iec-42001-2023-ai-management-system-aims.png)
+![ Hiroshima Process International Code of Conduct for Advanced AI](../../images/gov-03-iso-iec-42001-2023-ai-management-system-aims.png)
 
 ## Brief Info
 Reference checklist pack for G7 — Hiroshima Process International Code of Conduct for Advanced AI. Jurisdiction: International (G7). Type: Code of conduct.
