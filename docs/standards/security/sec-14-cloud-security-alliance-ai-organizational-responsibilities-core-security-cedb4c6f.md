@@ -14,6 +14,6 @@
 Reference checklist pack for Cloud Security Alliance — AI Organizational Responsibilities (Core Security Responsibilities). Jurisdiction: Global. Type: Industry guidance.
 
 ## Website Screenshot
-![Cloud Security Alliance — AI Organizational Responsibilities (Core Security Responsibilities)](../../images/task2 AI security.png)
+![Cloud Security Alliance — AI Organizational Responsibilities (Core Security Responsibilities)](../../images/task2_AI_security.png)
 ## How This Is Used In TrustStack
 This standard is represented as a versioned pack and contributes checklist controls, expected evidence, and audit-ready mapping context.
