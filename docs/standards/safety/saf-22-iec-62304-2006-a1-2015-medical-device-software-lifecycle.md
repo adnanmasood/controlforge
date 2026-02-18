@@ -10,6 +10,8 @@
 ## Official Standard Link
 - Source reference: IEC 62304:2006+A1:2015 — Medical device software lifecycle (public URL not provided)
 
+## Website Screenshot
+- ![IEC 62304 official website screenshot](images/medical-device-software-lifecycle.png)
 ## Brief Info
 Reference checklist pack for IEC 62304:2006+A1:2015 — Medical device software lifecycle. Jurisdiction: International. Type: IEC standard.
 
