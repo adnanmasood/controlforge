@@ -10,9 +10,6 @@
 ## Official Standard Link
 - [ISO 14971:2019 — Medical device risk management](https://www.iso.org/standard/72704.html)
 
-## Website Screenshot
-- ![ISO 14971 official website screenshot](medical-device-software-lifecycle.png)
-
 ## Brief Info
 Reference checklist pack for ISO 14971:2019 — Medical device risk management. Jurisdiction: International. Type: ISO standard.
 
