@@ -137,7 +137,6 @@ The pack registry discovers it automatically at runtime.
 - [Security Standards (17)](docs/standards/security/README.md)
 
 ### Governance
-![ISO/IEC JTC 1/SC 42](docs/images/image.png)
 - [EU — AI Act (Regulation (EU) 2024/1689)](docs/standards/governance/eu-ai-act.md)
 - [NIST — AI Risk Management Framework (AI RMF 1.0)](docs/standards/governance/nist-ai-rmf.md)
 - [ISO/IEC 42001:2023 — AI Management System (AIMS)](docs/standards/governance/gov-03-iso-iec-42001-2023-ai-management-system-aims.md)
@@ -221,7 +220,6 @@ The pack registry discovers it automatically at runtime.
 - [IMDRF GMLP Guiding Principles (N88 FINAL:2025) — FDA page](docs/standards/safety/saf-23-imdrf-gmlp-guiding-principles-n88-final-2025-fda-page.md)
 
 ### Security
-![OWASP Machine Learning Security Top 10](docs/images/image2.png)
 - [NIST — Cybersecurity Framework (CSF) 2.0](docs/standards/security/sec-01-nist-cybersecurity-framework-csf-2-0.md)
 - [ISO/IEC 27001:2022 — Information Security Management System (ISMS)](docs/standards/security/sec-02-iso-iec-27001-2022-information-security-management-system-isms.md)
 - [ISO/IEC 27002:2022 — Information security controls](docs/standards/security/sec-03-iso-iec-27002-2022-information-security-controls.md)

@@ -10,6 +10,8 @@
 ## Official Standard Link
 - [OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/)
 
+![OWASP Machine Learning Security Top 10](images/OWASP-top-10.png)
+
 ## Brief Info
 Reference checklist pack for OWASP Machine Learning Security Top 10. Jurisdiction: Global. Type: AppSec guidance.
 
