@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [Brazil — AI Regulation Bill (PL 2.338/2023) — Senate matter](https://www25.senado.leg.br/web/atividade/materias/-/materia/157233)
 
+## Website Screenshot
+![Canada — Directive on Automated Decision-Making official website screenshot](./images/gov-43-brazil-ai-regulation-bill-pl-2-338-2023-senate-matter.png)
+
 ## Brief Info
 Reference checklist pack for Brazil — AI Regulation Bill (PL 2.338/2023) — Senate matter. Jurisdiction: Brazil. Type: Bill (pending).
 
