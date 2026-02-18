@@ -11,7 +11,7 @@
 - [ISO/IEC 22989:2022 — AI concepts and terminology](https://www.iso.org/standard/74296.html)
 
 ## Website Screenshot
-- [ISO/IEC 22989 official website screenshot](./images/ai-concepts-terminologies.png)
+- [ISO/IEC 22989 official website screenshot](images/ai-concepts-terminologies.png)
 
 
 ## Brief Info
