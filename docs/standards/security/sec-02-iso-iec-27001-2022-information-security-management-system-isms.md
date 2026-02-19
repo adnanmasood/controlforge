@@ -14,7 +14,7 @@
 Reference checklist pack for ISO/IEC 27001:2022 — Information Security Management System (ISMS). Jurisdiction: International. Type: ISO/IEC standard.
 
 ## Website Screenshot
-![ISO/IEC 270001 official website screenshot](.images/iso-iec-270001.png)
+![ISO/IEC 27001 Official Website Screenshot](../../images/iso-iec-270001.png)
 
 
 ## How This Is Used In TrustStack
