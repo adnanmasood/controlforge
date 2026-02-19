@@ -12,8 +12,12 @@
 
 - [OECD/LEGAL/0449 — Recommendation of the Council on AI](https://legalinstruments.oecd.org/en/instruments/oecd-legal-0449)
 
+## Application Screenshot
+![alt text](recommendation-of-the-council-on-AI.png)
+
 ## Website Screenshot
-![alt text](<Screenshot 2026-02-16 173107-1.png>)
+
+![alt text](Screenshot 2026-02-16 173107-1.png)
 
 ## Brief Info
 
