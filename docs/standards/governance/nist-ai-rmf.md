@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [NIST — AI Risk Management Framework (AI RMF 1.0)](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)
 
+## Website Screenshot
+![NIST — AI Risk Management Framework (AI RMF 1.0)](./images/NIST-AI-Risk-Management-Framework.png)
+
 ## Brief Info
 Reference checklist pack for NIST — AI Risk Management Framework (AI RMF 1.0). Jurisdiction: US (global use). Type: Framework.
 
