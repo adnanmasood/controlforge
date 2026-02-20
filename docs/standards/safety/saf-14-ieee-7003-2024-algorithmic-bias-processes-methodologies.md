@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [IEEE 7003-2024 — Algorithmic bias processes/methodologies](https://standards.ieee.org/ieee/7003/11357/)
 
+## Website Screenshot
+![IEEE 7003-2024 — Algorithmic bias processes/methodologies Website Screenshot](./images/saf-14-ieee.png)
+
 ## Brief Info
 Reference checklist pack for IEEE 7003-2024 — Algorithmic bias processes/methodologies. Jurisdiction: International. Type: IEEE standard.
 
