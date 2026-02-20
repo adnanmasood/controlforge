@@ -10,6 +10,10 @@
 ## Official Standard Link
 - [IEEE 7000-2021 — Ethics-by-design process standard](https://standards.ieee.org/standard/7000-2021.html)
 
+## Screenshot of Official Page
+![Safety Standard Screenshot](images/safetyimage.png)
+
+
 ## Brief Info
 Reference checklist pack for IEEE 7000-2021 — Ethics-by-design process standard. Jurisdiction: International. Type: IEEE standard.
 

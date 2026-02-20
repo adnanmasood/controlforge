@@ -9,6 +9,9 @@
 
 ## Official Standard Link
 - [Canada — Artificial Intelligence and Data Act (AIDA) (Bill C-27)](https://www.parl.ca/DocumentViewer/en/44-1/bill/C-27/first-reading)
+## Screenshot of Official Page
+![Canada AIDA Screenshot](images/image1.png)
+
 
 ## Brief Info
 Reference checklist pack for Canada — Artificial Intelligence and Data Act (AIDA) (Bill C-27). Jurisdiction: Canada. Type: Bill (proposed).
