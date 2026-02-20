@@ -10,6 +10,10 @@
 ## Official Standard Link
 - [NIST SP 800-53 Rev. 5 — Security & privacy controls](https://csrc.nist.gov/pubs/sp/800/53/r5/final)
 
+## Website Screenshot
+![NIST SP 800-53 Rev. 5](../../images/NIST%20SP%20800-53%20Rev.%205.jpeg)
+
+
 ## Brief Info
 Reference checklist pack for NIST SP 800-53 Rev. 5 — Security & privacy controls. Jurisdiction: US (global use). Type: Control catalog.
 
