@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [ISO/IEC TS 8200:2024 — Controllability of automated AI systems](https://www.iso.org/standard/84127.html)
 
+## Image Link
+- [ISO/IEC TS 8200:2024 — Controllability of automated AI systems](https://github.com/hassan34319/controlforge/blob/main/docs/images/saf-07.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC TS 8200:2024 — Controllability of automated AI systems. Jurisdiction: International. Type: ISO/IEC standard (TS).
 
