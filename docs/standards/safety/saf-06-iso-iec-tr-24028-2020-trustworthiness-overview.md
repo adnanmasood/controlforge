@@ -7,7 +7,7 @@
 - **Jurisdiction:** International
 - **Type:** ISO/IEC technical report
 
-## Official Standard Link
+## Official Website
 ![Screenshot](../../images/safety_ss.jpeg)
 
 ## Brief Info
