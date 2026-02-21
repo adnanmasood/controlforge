@@ -1,3 +1,4 @@
+![Homepage Screenshot](gov-03-iso-iec-42001-2023-ai-management-system-aims-images/task1.png)
 # ISO/IEC 42001:2023 — AI Management System (AIMS)
 
 ## Standard Profile
