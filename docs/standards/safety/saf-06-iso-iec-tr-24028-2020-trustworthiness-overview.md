@@ -8,7 +8,7 @@
 - **Type:** ISO/IEC technical report
 
 ## Official Standard Link
-- [ISO/IEC TR 24028:2020 — Trustworthiness overview](https://www.iso.org/standard/77608.html)
+- ![Screenshot](images/safety_ss.jpeg)
 
 ## Brief Info
 Reference checklist pack for ISO/IEC TR 24028:2020 — Trustworthiness overview. Jurisdiction: International. Type: ISO/IEC technical report.
