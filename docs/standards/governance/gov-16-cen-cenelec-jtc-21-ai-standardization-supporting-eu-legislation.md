@@ -7,8 +7,14 @@
 - **Jurisdiction:** Europe
 - **Type:** Standards body / harmonization
 
+### Homepage Image
+![Homepage Image](images/CEN-CENELEC%20JTC%2021.png)
+
 ## Official Standard Link
 - [CEN-CENELEC JTC 21 — AI standardization supporting EU legislation](https://www.cencenelec.eu/areas-of-work/cen-cenelec/jtc-21/)
+
+## Other link
+- [CEN-CENELEC JTC 21 — AI standardization supporting EU legislation](https://jtc21.eu)
 
 ## Brief Info
 Reference checklist pack for CEN-CENELEC JTC 21 — AI standardization supporting EU legislation. Jurisdiction: Europe. Type: Standards body / harmonization.
