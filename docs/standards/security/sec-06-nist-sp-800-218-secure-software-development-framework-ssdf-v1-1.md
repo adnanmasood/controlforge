@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [NIST SP 800-218 — Secure Software Development Framework (SSDF) v1.1](https://csrc.nist.gov/pubs/sp/800/218/final)
 
+## Application screenshot 
+![Application Screenshot](images/nist-security.png)
+
 ## Brief Info
 Reference checklist pack for NIST SP 800-218 — Secure Software Development Framework (SSDF) v1.1. Jurisdiction: US (global use). Type: Secure SDLC standard.
 

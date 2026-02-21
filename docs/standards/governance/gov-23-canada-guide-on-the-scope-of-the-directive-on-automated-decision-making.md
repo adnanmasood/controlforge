@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [Canada — Guide on the scope of the Directive on Automated Decision-Making](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-scope-directive-automated-decision-making.html)
 
+## Website screenshot
+![Screenshot of the Directive on Automated Decision-Making](images/ISO_ss.png)
+
 ## Brief Info
 Reference checklist pack for Canada — Guide on the scope of the Directive on Automated Decision-Making. Jurisdiction: Canada. Type: Guidance.
 
