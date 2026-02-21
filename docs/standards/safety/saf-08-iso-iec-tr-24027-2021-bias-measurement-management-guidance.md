@@ -7,6 +7,9 @@
 - **Jurisdiction:** International
 - **Type:** ISO/IEC technical report
 
+### Homepage Image
+![Homepage Image](Images/ISOIEC%20TR%20240272021.png)
+
 ## Official Standard Link
 - [ISO/IEC TR 24027:2021 — Bias measurement/management guidance](https://www.iso.org/standard/77607.html)
 
