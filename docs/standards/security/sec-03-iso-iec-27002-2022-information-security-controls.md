@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [ISO/IEC 27002:2022 — Information security controls](https://www.iso.org/standard/75652.html)
 
+## Website Screenshot
+![ISO/IEC 27002:2022 official website screenshot](./images/iso-iec-27002.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC 27002:2022 — Information security controls. Jurisdiction: International. Type: ISO/IEC standard.
 
