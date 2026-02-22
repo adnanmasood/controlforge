@@ -7,7 +7,7 @@
 - **Jurisdiction:** International
 - **Type:** ISO/IEC technical report
 
-## Official Page
+## Official Page Screenshot
 ![Screenshot](../../images/ISO_IEC_TR_2020_Trustworthiness_overview.jpeg)
 
 
