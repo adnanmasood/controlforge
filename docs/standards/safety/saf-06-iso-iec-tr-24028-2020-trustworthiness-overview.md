@@ -8,7 +8,9 @@
 - **Type:** ISO/IEC technical report
 
 ## Official Page
-![Screenshot](../../images/safety_ss.jpeg)
+![Screenshot](../../images/ISO/IEC_TR_2020_Trustworthiness_overview.jpeg)
+
+
 
 ## Brief Info
 Reference checklist pack for ISO/IEC TR 24028:2020 — Trustworthiness overview. Jurisdiction: International. Type: ISO/IEC technical report.
