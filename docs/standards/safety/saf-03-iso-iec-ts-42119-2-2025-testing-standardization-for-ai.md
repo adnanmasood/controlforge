@@ -13,7 +13,7 @@
 - [ISO/IEC TS 42119-2:2025 — Testing standardization for AI](https://www.iso.org/standard/88435.html)
 
 ## Application Screenshot
-![alt text](testing-standardization-for-ai.png)
+![alt text](./images/testing-standardization-for-ai.png)
 
 ## Brief Info
 
