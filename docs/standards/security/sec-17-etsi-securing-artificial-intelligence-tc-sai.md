@@ -11,7 +11,7 @@
 - [ETSI — Securing Artificial Intelligence (TC SAI)](https://www.etsi.org/technologies/securing-artificial-intelligence)
 
 ## Website Image
-![ETSI — Securing Artificial Intelligence (TC SAI)](/docs/standards/security/sec-17-etsi-securing-artificial-intelligence-tc-sai.png)
+![ETSI — Securing Artificial Intelligence (TC SAI)](/docs/standards/security/images/sec-17-etsi-securing-artificial-intelligence-tc-sai.png)
 
 ## Brief Info
 Reference checklist pack for ETSI — Securing Artificial Intelligence (TC SAI). Jurisdiction: Europe. Type: Standards body / guidance.
