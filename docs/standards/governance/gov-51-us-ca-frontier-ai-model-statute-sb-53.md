@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [US-CA — Frontier AI model statute (SB 53)](https://oag.ca.gov/sb53)
 
+## Website Screenshot
+![US-CA — Frontier AI model statute (SB 53)](../../images/Frontier%20AI%20model%20statute.jpeg)
+
 ## Brief Info
 Reference checklist pack for US-CA — Frontier AI model statute (SB 53). Jurisdiction: United States (California). Type: State statute.
 
