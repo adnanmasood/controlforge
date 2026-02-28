@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [Australia — AI Ethics Principles](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-principles)
 
+## Image 
+- [Australia — AI Ethics Principles](https://github.com/hassan34319/controlforge/blob/main/docs/images/govt-36.png)
+
 ## Brief Info
 Reference checklist pack for Australia — AI Ethics Principles. Jurisdiction: Australia. Type: Guidelines / principles.
 
