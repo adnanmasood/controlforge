@@ -10,6 +10,8 @@
 ## Official Standard Link
 - [ISO/IEC JTC 1/SC 42 — AI standards portfolio](https://www.iso.org/sectors/it-technologies/ai)
 
+![ISO/IEC JTC 1/SC 42](images/iso-42.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC JTC 1/SC 42 — AI standards portfolio. Jurisdiction: International. Type: Standards committee.
 
