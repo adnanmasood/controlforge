@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [ISO/IEC 23053:2022 — ML-based AI system framework + terminology](https://www.iso.org/standard/74438.html)
 
+## Screenshot of official link
+![Screenshot of Canada AIA official page](images/gen_ai_2.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC 23053:2022 — ML-based AI system framework + terminology. Jurisdiction: International. Type: ISO/IEC standard.
 
