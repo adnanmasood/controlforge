@@ -1,5 +1,9 @@
 # US (Federal) — OMB Memorandum M-25-21 (Accelerating Federal Use of AI...)
 
+## Official Standard Page
+
+![OMB Memorandum M-25-21 Official Page](images/gov-18.png)
+
 ## Standard Profile
 - **Domain:** Governance
 - **Pack ID:** `gov-18-us-federal-omb-memorandum-m-25-21-accelerating-federal-use-of-ai`
