@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [UNESCO — Recommendation on the Ethics of AI](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 
+## Website Screenshot
+![UNESCO recommendation on ethics of AI official website screenshot](./images/unesco-ai-ethics-recommendation.png)
+
 ## Brief Info
 Reference checklist pack for UNESCO — Recommendation on the Ethics of AI. Jurisdiction: International (UN). Type: Recommendation.
 

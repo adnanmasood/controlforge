@@ -10,6 +10,12 @@ TrustStack AI GRC turns AI regulations and security frameworks into a **practica
 ## Application Screenshot
 ![TrustStack AI Assurance Hub homepage screenshot](docs/images/application-homepage-screenshot.png)
 
+## Project Contributors
+This project is being led by **Adnan Masood** and **Heather Dawe** for their upcoming book.
+
+- **Adnan Masood, PhD** - Adnan is a seasoned artificial intelligence and machine learning expert, currently serving as **Chief AI Architect** leading AI strategy, engineering, and governance at UST. He holds a PhD in AI/ML, has been a **Stanford Visiting Scholar** and **Harvard Business School alum**, and is recognized as a thought leader, author, and speaker in responsible and enterprise-grade AI. He has co-authored books on responsible AI and regularly writes and speaks on AI governance, risk management, and ethical deployment of AI systems. He also serves as a **Microsoft Regional Director** and STEM mentor.
+- **Heather Dawe, MSc** - Heather is an experienced **Data and AI leader** with over 25 years of industry experience driving innovation in data science, analytics, and AI across healthcare, finance, retail, and government. She has held senior leadership roles such as **Chief Data Scientist** and **Head of Responsible AI**, has appeared as an AI thought leader in media outlets, and co-authored the 2023 book *Responsible AI in the Enterprise* with Adnan Masood. She is known for building multidisciplinary data science teams, advocating for responsible and ethical AI, and championing diversity and skills development in the technology community.
+
 ## What you tell it
 - Industry + segment + use case (config-driven taxonomy)
 - Scoping answers (questionnaire defined by the use case)

@@ -9,6 +9,9 @@
 
 ## Official Standard Link
 - [Canada — Algorithmic Impact Assessment (AIA) tool](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html)
+  
+## Screenshot of official link
+![Screenshot of Canada AIA official page](images/gen_ai_ss.png)
 
 ## Brief Info
 Reference checklist pack for Canada — Algorithmic Impact Assessment (AIA) tool. Jurisdiction: Canada. Type: Assessment tool / guidance.

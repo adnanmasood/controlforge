@@ -7,8 +7,9 @@
 - **Jurisdiction:** US (global use)
 - **Type:** Profile / guidance
 
-## Official Standard Link
-- [NIST — Generative AI Profile (NIST.AI.600-1)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf)
+## Screenshot 
+
+![Screenshot](images/nist-generative-ai-profile.jpeg)
 
 ## Brief Info
 Reference checklist pack for NIST — Generative AI Profile (NIST.AI.600-1). Jurisdiction: US (global use). Type: Profile / guidance.

@@ -10,6 +10,10 @@
 ## Official Standard Link
 - [MITRE ATLAS — Adversarial Threat Landscape for AI Systems](https://atlas.mitre.org/)
 
+## Website Screenshot
+<img width="1775" height="778" alt="Mitre Atlas" src="https://github.com/user-attachments/assets/7d00e6a9-4743-40e8-a17d-672833ea7a92" />
+
+
 ## Brief Info
 Reference checklist pack for MITRE ATLAS — Adversarial Threat Landscape for AI Systems. Jurisdiction: Global. Type: Threat knowledge base.
 

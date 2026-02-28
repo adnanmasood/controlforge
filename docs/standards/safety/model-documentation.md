@@ -9,6 +9,9 @@
 
 ## Official Standard Link
 - [Model + Data + System Documentation Pack (v1.0)](https://social-dynamics.net/ai-risks/impact-card)
+  
+## Website Screenshot
+![Model + Data + System Documentation Pack (v1.0)](./images/Model-Data-System-Documentation-Pack.png)
 
 ## Brief Info
 Reference checklist pack for Model + Data + System Documentation Pack (v1.0). Jurisdiction: Community / general. Type: Documentation pack.

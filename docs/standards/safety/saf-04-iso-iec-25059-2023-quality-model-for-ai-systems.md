@@ -10,6 +10,10 @@
 ## Official Standard Link
 - [ISO/IEC 25059:2023 — Quality model for AI systems](https://www.iso.org/standard/80655.html)
 
+## Website Screenshot
+![Framework Convention on AI website screenshot](./images/quality-model-for-AI-systems.png)
+
+
 ## Brief Info
 Reference checklist pack for ISO/IEC 25059:2023 — Quality model for AI systems. Jurisdiction: International. Type: ISO/IEC standard.
 

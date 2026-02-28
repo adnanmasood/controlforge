@@ -10,6 +10,8 @@
 ## Official Standard Link
 - [ISO/IEC 38507:2022 — Governance implications of AI use by organizations](https://www.iso.org/standard/56641.html)
 
+![ISO/IEC 38507:2022 — Governance implications of AI use by organizations](images/GenAI%20pic1.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC 38507:2022 — Governance implications of AI use by organizations. Jurisdiction: International. Type: ISO/IEC standard.
 
