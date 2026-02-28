@@ -18,3 +18,4 @@ Reference checklist pack for Canada — Artificial Intelligence and Data Act (AI
 
 ## How This Is Used In TrustStack
 This standard is represented as a versioned pack and contributes checklist controls, expected evidence, and audit-ready mapping context.
+<img width="960" height="710" alt="image" src="https://github.com/user-attachments/assets/96f6f87c-4213-4eb7-9815-8b5f141ff2f2" />
