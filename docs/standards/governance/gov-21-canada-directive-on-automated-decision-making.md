@@ -10,9 +10,8 @@
 ## Official Standard Link
 - [Canada — Directive on Automated Decision-Making](https://wiki.gccollab.ca/images/f/f1/Directive_on_Automated_Decision-Making.pdf)
 
-## Website
-![Image](../../images/canada_directed_automated.png)
-
+## Website Screenshot
+![Canada — Directive on Automated Decision-Making official website screenshot](./images/canada-directive-on-automated-decision-making.png)
 
 ## Brief Info
 Reference checklist pack for Canada — Directive on Automated Decision-Making. Jurisdiction: Canada. Type: Directive / policy.
