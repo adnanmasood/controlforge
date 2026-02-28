@@ -8,7 +8,11 @@
 - **Type:** Industry guidance
 
 ## Official Standard Link
-- [Cloud Security Alliance — AI Resilience: Organizational Responsibilities for AI Resilience](https://cloudsecurityalliance.org/artifacts/ai-resilience-organizational-responsibilities-for-ai-resilience)
+<!-- - [Cloud Security Alliance — AI Resilience: Organizational Responsibilities for AI Resilience](https://cloudsecurityalliance.org/artifacts/ai-resilience-organizational-responsibilities-for-ai-resilience) -->
+[Cloud Security Alliance — AI Resilience: Organizational Responsibilities for AI Resilience](https://cloudsecurityalliance.org/artifacts/ai-organizational-responsibilities-governance-risk-management-compliance-and-cultural-aspects)
+
+## Website Screenshot
+![Cloud Security Alliance — AI Resilience: Organizational Responsibilities for AI Resilience](../../images/AI%20Organizational%20responsibilities.png)
 
 ## Brief Info
 Reference checklist pack for Cloud Security Alliance — AI Resilience: Organizational Responsibilities for AI Resilience. Jurisdiction: Global. Type: Industry guidance.

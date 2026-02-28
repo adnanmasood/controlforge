@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [ISO/IEC 23894:2023 — AI risk management guidance](https://www.iso.org/standard/77304.html)
 
+## Website Image
+![ISO/IEC 23894:2023 — AI risk management guidance](/docs/standards/governance/images/gov-04-iso-iec-23894-2023-ai-risk-management-guidance.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC 23894:2023 — AI risk management guidance. Jurisdiction: International. Type: ISO/IEC standard.
 

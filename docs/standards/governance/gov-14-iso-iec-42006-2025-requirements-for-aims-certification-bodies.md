@@ -10,6 +10,9 @@
 ## Official Standard Link
 - [ISO/IEC 42006:2025 — Requirements for AIMS certification bodies](https://www.iso.org/standard/42006)
 
+## Image
+- [ISO/IEC 42006:2025 — Requirements for AIMS certification bodies](https://github.com/hassan34319/controlforge/blob/main/docs/images/goverance-14.png)
+
 ## Brief Info
 Reference checklist pack for ISO/IEC 42006:2025 — Requirements for AIMS certification bodies. Jurisdiction: International. Type: ISO/IEC standard.
 
